@@ -1,0 +1,6 @@
+{
+  "name": "اختبار تدبر الآيات",
+  "description": "اختبار تفاعلي شيق يهدف لربط القرآن الكريم بالواقع العملي والتدبر في آياته الكريمة مع مستويات صعوبة مختلفة وتحدي وقت وبطاقة صدارة تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
